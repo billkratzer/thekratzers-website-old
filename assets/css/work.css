@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+.small_heading {
+    font-size: 18pt;
+    font-weight: bolder;
+}
+href:visited {
+    color: red;
+}
+div a:link  {
+    color: black;
+}
+div a:visited {
+    color: black;
+}
+div a:hover {
+    color: #229;
+}
+.work_title {
+    margin-top: 1em;
+    font-weight: bold;
+    font-size: 14pt;
+}
+.work_company {
+    margin-bottom: .3em;
+    color: #222;
+    font-size: 12pt;
+}
+.work_description {
+    font-size: 11pt;
+    padding-bottom: 1em;
+}
+.work_link {
+    font-size: 11pt;
+    padding-bottom: 1em;
+}
