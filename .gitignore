@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+/.idea
+/Gemfile
+/Gemfile.lock
+/thekratzers-website.iml
