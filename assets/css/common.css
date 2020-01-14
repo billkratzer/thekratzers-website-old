@@ -26,7 +26,6 @@ body {
 }
 #home_link {
     float: left;
-    height: 3em;
     margin: 0;
     padding-left: 1em;
     padding-top: 1em;
@@ -99,10 +98,10 @@ body {
         height: 10em;
     }
     #top h1 {
-        font-size: 5em;
+        font-size: 3.5em;
     }
     #top h2 {
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
 }
 @media only screen and (min-width: 600px) {
