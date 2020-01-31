@@ -26,6 +26,7 @@ body {
 }
 #home_link {
     float: left;
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
     padding-left: 1em;
     padding-top: 1em;
