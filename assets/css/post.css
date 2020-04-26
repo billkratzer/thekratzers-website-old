@@ -1,0 +1,78 @@
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+.small_heading {
+    font-size: 18pt;
+    font-weight: bolder;
+    padding: 0;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
+
+a.post-link {
+    color: #324866;
+}
+
+#post_title h3 {
+    font-size: 14px;
+    margin-bottom: 2em;
+    font-style: italic;
+}
+
+#top h1 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0em;
+    color: #eee;
+}
+#top h2 {
+    font-family: 'ZCOOL XiaoWei', serif;
+    text-align: center;
+    padding-top: 0.6em;
+    padding-bottom: 0.3em;
+    color: #9FB1BC;
+}
+
+@media only screen and (max-width: 600px) {
+    /* For small: */
+    #top {
+        height: 4em;
+    }
+    #top h1 {
+        font-size: 1.2em;
+    }
+    #top h2 {
+        font-size: 0.8em;
+    }
+}
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    #top {
+        height: 6em;
+    }
+    #top h1 {
+        font-size: 2em;
+    }
+    #top h2 {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    /* for desktops */
+    #top {
+        height: 10em;
+    }
+    #top h1 {
+        font-size: 3em;
+    }
+    #top h2 {
+        font-size: 1.5em;
+    }
+    #top h3 {
+        font-size: 1em;
+    }
+}

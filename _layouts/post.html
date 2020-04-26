@@ -1,11 +1,16 @@
 ---
 layout: default
+css_file: post.css
 ---
+<div id="top">
+    <h1>{{ page.title | escape }}</h1>
+    <h2>{{ page.date | date_to_long_string: "ordinal", "US" }}</h2>
+</div>
+<div class="bar"></div>
+
 <div id="bottom">
     <div id="bottom_wrapper">
         <div id="post_title">
-            <h1>{{ page.title | escape }}</h1>
-            <h2>{{ page.date | date_to_string: "ordinal", "US" }}</h2>
             <h3>Meticulously penned by {{ page.author }}</h3>
         </div>
         <div id="post_content">

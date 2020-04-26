@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Grading Football Score Predictions!"
-date:   2019-12-04 20:00:00 -0500
+date:   2022-12-04 20:00:00 -0500
 author:  Bill Kratzer
 categories: football
+css_file: post.css
 ---
+
 For the last few years, I have been making predictions to scores of Penn State football games.  
 
 More recently, I have become interested in the idea of grading my predictions as well as benchmarking my predictions against others. 

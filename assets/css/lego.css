@@ -1,0 +1,11 @@
+#minifigs {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    background-color: white;
+    align-items: center;
+}
+
+.minifig {
+    flex: 0 0 auto;
+}

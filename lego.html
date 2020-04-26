@@ -1,0 +1,34 @@
+---
+layout: default
+css_file: lego.css
+---
+<div id="top">
+    <h1>LEGO</h1>
+    <h2>Brick. Studs. Awesomeness.</h2>
+</div>
+<div class="bar"></div>
+
+<div id="bottom">
+    <div id="minifigs">
+    </div>
+
+    <div id="bottom_wrapper">
+    </div>
+</div>
+
+<script>
+    function getRandomLegoSets() {
+        $.get( "/api/my/minifigs/random/10", function( data ) {
+            data.forEach(populateSet);
+        });
+    }
+
+    function populateSet(set) {
+        $( '#minifigs' ).append( '<div class="minifig"><img class="minifig_thumb" src="' + set.thumbnailURL + '"/></div>' )
+    }
+
+    $(document).ready(function(){
+        getRandomLegoSets();
+    });
+
+</script>
