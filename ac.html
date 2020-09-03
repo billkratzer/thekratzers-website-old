@@ -1,0 +1,63 @@
+---
+layout: default
+css_file: ac.css
+---
+<div id="top">
+    <h1>Animal Crossing</h1>
+    <h2>Serving Tom Nook since March 2020.</h2>
+</div>
+<div class="bar"></div>
+
+<div id="bottom">
+    <div id="minifigs">
+    </div>
+
+    <div id="bottom_wrapper">
+        <p>
+            Animal Crossing is great fun.   My family and I have put over 600 hours into the game,
+            having a blast while building our virtual slice of paradise.
+        </p>
+        <p>
+            Come visit our island, Sea Crest @ <b>DA-8072-6859-7067</b>!
+        </p>
+        <div id="caption_bar">
+            <div id="caption"></div>
+            <div id="click_blurb">Click picture to see more!</div>
+        </div>
+        <div id="pic_container">
+            <img id="random_pic" class="grayscale"/>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    var captions = [];
+    $(document).ready(function(){
+        {% for entry in site.data.ac %}
+        captions.push("{{ entry.caption }}");
+        {% endfor %}
+
+        getRandomPic();
+
+        $("#random_pic").hover(function() {
+            $(this).removeClass("grayscale");
+        }, function(){
+            $(this).addClass("grayscale");
+        });
+
+        $("#random_pic").click(function() {
+            getRandomPic();
+        });
+
+    });
+
+    function getRandomPic() {
+        var index = Math.floor(Math.random() * captions.length);
+        var caption = captions[index];
+        var imageNumber = index + 1;
+        var url = "/assets/image/ac/ac_" + imageNumber + ".jpeg";
+        $("#random_pic").attr("src", url);
+        $("#caption").html(caption);
+    }
+</script>

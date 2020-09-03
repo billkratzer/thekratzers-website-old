@@ -1,0 +1,5423 @@
+[
+  {
+    "setID": "8002",
+    "number": "8683",
+    "name": "Tribal Hunter",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-1"
+  },
+  {
+    "setID": "8003",
+    "number": "8683",
+    "name": "Cheerleader",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-2"
+  },
+  {
+    "setID": "8004",
+    "number": "8683",
+    "name": "Caveman",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-3"
+  },
+  {
+    "setID": "8005",
+    "number": "8683",
+    "name": "Circus Clown",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-4"
+  },
+  {
+    "setID": "8006",
+    "number": "8683",
+    "name": "Zombie",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-5"
+  },
+  {
+    "setID": "8007",
+    "number": "8683",
+    "name": "Skater",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-6"
+  },
+  {
+    "setID": "8008",
+    "number": "8683",
+    "name": "Robot",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-7"
+  },
+  {
+    "setID": "8009",
+    "number": "8683",
+    "name": "Demolition Dummy",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-8"
+  },
+  {
+    "setID": "8010",
+    "number": "8683",
+    "name": "Magician",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-9"
+  },
+  {
+    "setID": "8011",
+    "number": "8683",
+    "name": "Super Wrestler",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-10"
+  },
+  {
+    "setID": "8012",
+    "number": "8683",
+    "name": "Nurse",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-11"
+  },
+  {
+    "setID": "8013",
+    "number": "8683",
+    "name": "Ninja",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-12"
+  },
+  {
+    "setID": "8014",
+    "number": "8683",
+    "name": "Spaceman",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-13"
+  },
+  {
+    "setID": "8015",
+    "number": "8683",
+    "name": "Forestman",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-14"
+  },
+  {
+    "setID": "8016",
+    "number": "8683",
+    "name": "Deep Sea Diver",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-15"
+  },
+  {
+    "setID": "8017",
+    "number": "8683",
+    "name": "Cowboy",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 01",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8683-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8683-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8683-16"
+  },
+  {
+    "setID": "8076",
+    "number": "8684",
+    "name": "Mariachi",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-1"
+  },
+  {
+    "setID": "8077",
+    "number": "8684",
+    "name": "Spartan Warrior",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-2"
+  },
+  {
+    "setID": "8078",
+    "number": "8684",
+    "name": "Ringmaster",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-3"
+  },
+  {
+    "setID": "8079",
+    "number": "8684",
+    "name": "Witch",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-4"
+  },
+  {
+    "setID": "8080",
+    "number": "8684",
+    "name": "Vampire",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-5"
+  },
+  {
+    "setID": "8081",
+    "number": "8684",
+    "name": "Traffic Cop",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-6"
+  },
+  {
+    "setID": "8082",
+    "number": "8684",
+    "name": "Explorer",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-7"
+  },
+  {
+    "setID": "8083",
+    "number": "8684",
+    "name": "Life Guard",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-8"
+  },
+  {
+    "setID": "8084",
+    "number": "8684",
+    "name": "Mime",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-9"
+  },
+  {
+    "setID": "8085",
+    "number": "8684",
+    "name": "Weightlifter",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-10"
+  },
+  {
+    "setID": "8086",
+    "number": "8684",
+    "name": "Pop Star",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-11"
+  },
+  {
+    "setID": "8087",
+    "number": "8684",
+    "name": "Skier",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-12"
+  },
+  {
+    "setID": "8088",
+    "number": "8684",
+    "name": "Disco Dude",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-13"
+  },
+  {
+    "setID": "8089",
+    "number": "8684",
+    "name": "Karate Master",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-14"
+  },
+  {
+    "setID": "8090",
+    "number": "8684",
+    "name": "Surfer",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-15"
+  },
+  {
+    "setID": "8091",
+    "number": "8684",
+    "name": "Pharaoh",
+    "year": "2010",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 02",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8684-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8684-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8684-16"
+  },
+  {
+    "setID": "8448",
+    "number": "8803",
+    "name": "Fisherman",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-1"
+  },
+  {
+    "setID": "8447",
+    "number": "8803",
+    "name": "Pilot",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-2"
+  },
+  {
+    "setID": "8445",
+    "number": "8803",
+    "name": "Tribal Chief",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-3"
+  },
+  {
+    "setID": "8446",
+    "number": "8803",
+    "name": "Samurai Warrior",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-4"
+  },
+  {
+    "setID": "8450",
+    "number": "8803",
+    "name": "Snowboarder",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-5"
+  },
+  {
+    "setID": "8449",
+    "number": "8803",
+    "name": "Space Villain",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-6"
+  },
+  {
+    "setID": "8454",
+    "number": "8803",
+    "name": "Sumo Wrestler",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-7"
+  },
+  {
+    "setID": "8456",
+    "number": "8803",
+    "name": "Mummy",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-8"
+  },
+  {
+    "setID": "8453",
+    "number": "8803",
+    "name": "Elf",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-9"
+  },
+  {
+    "setID": "8457",
+    "number": "8803",
+    "name": "Tennis Player",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-10"
+  },
+  {
+    "setID": "8451",
+    "number": "8803",
+    "name": "Race Car Driver",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-11"
+  },
+  {
+    "setID": "8459",
+    "number": "8803",
+    "name": "Gorilla Suit Guy",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-12"
+  },
+  {
+    "setID": "8455",
+    "number": "8803",
+    "name": "Space Alien",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-13"
+  },
+  {
+    "setID": "8444",
+    "number": "8803",
+    "name": "Hula Dancer",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-14"
+  },
+  {
+    "setID": "8452",
+    "number": "8803",
+    "name": "Rapper",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-15"
+  },
+  {
+    "setID": "8458",
+    "number": "8803",
+    "name": "Baseball Player",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 03",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8803-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8803-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8803-16"
+  },
+  {
+    "setID": "8491",
+    "number": "8804",
+    "name": "Lawn Gnome",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-1"
+  },
+  {
+    "setID": "8496",
+    "number": "8804",
+    "name": "Kimono Girl",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-2"
+  },
+  {
+    "setID": "8483",
+    "number": "8804",
+    "name": "Musketeer",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-3"
+  },
+  {
+    "setID": "8495",
+    "number": "8804",
+    "name": "Punk Rocker",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-4"
+  },
+  {
+    "setID": "8487",
+    "number": "8804",
+    "name": "Surfer Girl",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-5"
+  },
+  {
+    "setID": "8485",
+    "number": "8804",
+    "name": "Viking",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-6"
+  },
+  {
+    "setID": "8481",
+    "number": "8804",
+    "name": "The Monster",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-7"
+  },
+  {
+    "setID": "8492",
+    "number": "8804",
+    "name": "Hockey Player",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-8"
+  },
+  {
+    "setID": "8484",
+    "number": "8804",
+    "name": "Street Skater",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-9"
+  },
+  {
+    "setID": "8482",
+    "number": "8804",
+    "name": "Sailor",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-10"
+  },
+  {
+    "setID": "8489",
+    "number": "8804",
+    "name": "Soccer Player",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-11"
+  },
+  {
+    "setID": "8486",
+    "number": "8804",
+    "name": "Werewolf",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-12"
+  },
+  {
+    "setID": "8488",
+    "number": "8804",
+    "name": "Hazmat Guy",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-13"
+  },
+  {
+    "setID": "8490",
+    "number": "8804",
+    "name": "Artist",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-14"
+  },
+  {
+    "setID": "8494",
+    "number": "8804",
+    "name": "Ice Skater",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-15"
+  },
+  {
+    "setID": "8493",
+    "number": "8804",
+    "name": "Crazy Scientist",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 04",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8804-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8804-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8804-16"
+  },
+  {
+    "setID": "8800",
+    "number": "8805",
+    "name": "Graduate",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-1"
+  },
+  {
+    "setID": "8801",
+    "number": "8805",
+    "name": "Gladiator",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-2"
+  },
+  {
+    "setID": "8802",
+    "number": "8805",
+    "name": "Royal Guard",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-3"
+  },
+  {
+    "setID": "8803",
+    "number": "8805",
+    "name": "Ice Fisherman",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-4"
+  },
+  {
+    "setID": "8804",
+    "number": "8805",
+    "name": "Cave Woman",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-5"
+  },
+  {
+    "setID": "8805",
+    "number": "8805",
+    "name": "Lizard Man",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-6"
+  },
+  {
+    "setID": "8806",
+    "number": "8805",
+    "name": "Zookeeper",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-7"
+  },
+  {
+    "setID": "8807",
+    "number": "8805",
+    "name": "Lumberjack",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-8"
+  },
+  {
+    "setID": "8808",
+    "number": "8805",
+    "name": "Small Clown",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-9"
+  },
+  {
+    "setID": "8809",
+    "number": "8805",
+    "name": "Fitness Instructor",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-10"
+  },
+  {
+    "setID": "8810",
+    "number": "8805",
+    "name": "Detective",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-11"
+  },
+  {
+    "setID": "8811",
+    "number": "8805",
+    "name": "Evil Dwarf",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-12"
+  },
+  {
+    "setID": "8812",
+    "number": "8805",
+    "name": "Boxer",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-13"
+  },
+  {
+    "setID": "8813",
+    "number": "8805",
+    "name": "Egyptian Queen",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-14"
+  },
+  {
+    "setID": "8814",
+    "number": "8805",
+    "name": "Gangster",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-15"
+  },
+  {
+    "setID": "8815",
+    "number": "8805",
+    "name": "Snowboarder Guy",
+    "year": "2011",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 05",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8805-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8805-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8805-16"
+  },
+  {
+    "setID": "9135",
+    "number": "8827",
+    "name": "Classic Alien",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 06",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8827-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8827-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8827-1"
+  },
+  {
+    "setID": "9138",
+    "number": "8827",
+    "name": "Highland Battler",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 06",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8827-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8827-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8827-2"
+  },
+  {
+    "setID": "9127",
+    "number": "8827",
+    "name": "Sleepyhead",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 06",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8827-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8827-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8827-3"
+  },
+  {
+    "setID": "9125",
+    "number": "8827",
+    "name": "Lady Liberty",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 06",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8827-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8827-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8827-4"
+  },
+  {
+    "setID": "9515",
+    "number": "8831",
+    "name": "Hippie",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-11"
+  },
+  {
+    "setID": "9527",
+    "number": "8831",
+    "name": "Computer Programmer",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-12"
+  },
+  {
+    "setID": "9520",
+    "number": "8831",
+    "name": "Viking Woman",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-13"
+  },
+  {
+    "setID": "9529",
+    "number": "8831",
+    "name": "Evil Knight",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-14"
+  },
+  {
+    "setID": "9517",
+    "number": "8831",
+    "name": "Rocker Girl",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-15"
+  },
+  {
+    "setID": "9518",
+    "number": "8831",
+    "name": "Grandma Visitor",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 07",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8831-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8831-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8831-16"
+  },
+  {
+    "setID": "9793",
+    "number": "8833",
+    "name": "Evil Robot",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-1"
+  },
+  {
+    "setID": "9792",
+    "number": "8833",
+    "name": "Conquistador",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-2"
+  },
+  {
+    "setID": "9803",
+    "number": "8833",
+    "name": "Lederhosen Guy",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-3"
+  },
+  {
+    "setID": "9805",
+    "number": "8833",
+    "name": "Cowgirl",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-4"
+  },
+  {
+    "setID": "9798",
+    "number": "8833",
+    "name": "Football Player",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-5"
+  },
+  {
+    "setID": "9795",
+    "number": "8833",
+    "name": "Diver",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-6"
+  },
+  {
+    "setID": "9800",
+    "number": "8833",
+    "name": "Downhill Skier",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-7"
+  },
+  {
+    "setID": "9799",
+    "number": "8833",
+    "name": "Businessman",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-8"
+  },
+  {
+    "setID": "9797",
+    "number": "8833",
+    "name": "Fairy",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-9"
+  },
+  {
+    "setID": "9802",
+    "number": "8833",
+    "name": "Santa",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-10"
+  },
+  {
+    "setID": "9796",
+    "number": "8833",
+    "name": "Vampire Bat",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-11"
+  },
+  {
+    "setID": "9804",
+    "number": "8833",
+    "name": "DJ",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-12"
+  },
+  {
+    "setID": "9801",
+    "number": "8833",
+    "name": "Red Cheerleader",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-13"
+  },
+  {
+    "setID": "9790",
+    "number": "8833",
+    "name": "Actor",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-14"
+  },
+  {
+    "setID": "9791",
+    "number": "8833",
+    "name": "Pirate Captain",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-15"
+  },
+  {
+    "setID": "9794",
+    "number": "8833",
+    "name": "Alien Villainess",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 08",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8833-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8833-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8833-16"
+  },
+  {
+    "setID": "9667",
+    "number": "8909",
+    "name": "Brawny Boxer",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-1"
+  },
+  {
+    "setID": "9668",
+    "number": "8909",
+    "name": "Stealth Swimmer",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-2"
+  },
+  {
+    "setID": "9669",
+    "number": "8909",
+    "name": "Relay Runner",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-3"
+  },
+  {
+    "setID": "9670",
+    "number": "8909",
+    "name": "Judo Fighter",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-4"
+  },
+  {
+    "setID": "9671",
+    "number": "8909",
+    "name": "Tactical Tennis Player",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-5"
+  },
+  {
+    "setID": "9672",
+    "number": "8909",
+    "name": "Flexible Gymnast",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-6"
+  },
+  {
+    "setID": "9673",
+    "number": "8909",
+    "name": "Wondrous Weightlifter",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-7"
+  },
+  {
+    "setID": "9674",
+    "number": "8909",
+    "name": "Horseback rider",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-8"
+  },
+  {
+    "setID": "9675",
+    "number": "8909",
+    "name": "Agile Archer",
+    "year": "2012",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Team GB",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8909-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8909-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8909-9"
+  },
+  {
+    "setID": "10179",
+    "number": "71000",
+    "name": "Waiter",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-1"
+  },
+  {
+    "setID": "10192",
+    "number": "71000",
+    "name": "Cyclops",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-2"
+  },
+  {
+    "setID": "10185",
+    "number": "71000",
+    "name": "Hollywood Starlet",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-3"
+  },
+  {
+    "setID": "10186",
+    "number": "71000",
+    "name": "Heroic Knight",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-4"
+  },
+  {
+    "setID": "10182",
+    "number": "71000",
+    "name": "Roman Emperor",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-5"
+  },
+  {
+    "setID": "10189",
+    "number": "71000",
+    "name": "Policeman",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-6"
+  },
+  {
+    "setID": "10193",
+    "number": "71000",
+    "name": "Chicken Suit Guy",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-7"
+  },
+  {
+    "setID": "10194",
+    "number": "71000",
+    "name": "Roller Derby Girl",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-8"
+  },
+  {
+    "setID": "10184",
+    "number": "71000",
+    "name": "Fortune Teller",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-9"
+  },
+  {
+    "setID": "10187",
+    "number": "71000",
+    "name": "Judge",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-10"
+  },
+  {
+    "setID": "10180",
+    "number": "71000",
+    "name": "Alien Avenger",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-11"
+  },
+  {
+    "setID": "10190",
+    "number": "71000",
+    "name": "Mermaid",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-12"
+  },
+  {
+    "setID": "10183",
+    "number": "71000",
+    "name": "Battle Mech",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-13"
+  },
+  {
+    "setID": "10188",
+    "number": "71000",
+    "name": "Mr. Good and Evil",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-14"
+  },
+  {
+    "setID": "10191",
+    "number": "71000",
+    "name": "Forest Maiden",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-15"
+  },
+  {
+    "setID": "10181",
+    "number": "71000",
+    "name": "Plumber",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 09",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71000-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71000-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71000-16"
+  },
+  {
+    "setID": "22628",
+    "number": "71001",
+    "name": "Librarian",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-1"
+  },
+  {
+    "setID": "22629",
+    "number": "71001",
+    "name": "Medusa",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-2"
+  },
+  {
+    "setID": "22630",
+    "number": "71001",
+    "name": "Roman Commander",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-3"
+  },
+  {
+    "setID": "22631",
+    "number": "71001",
+    "name": "Warrior Woman",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-4"
+  },
+  {
+    "setID": "22632",
+    "number": "71001",
+    "name": "Tomahawk Warrior",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-5"
+  },
+  {
+    "setID": "22633",
+    "number": "71001",
+    "name": "Skydiver",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-6"
+  },
+  {
+    "setID": "22634",
+    "number": "71001",
+    "name": "Bumblebee Girl",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-7"
+  },
+  {
+    "setID": "22635",
+    "number": "71001",
+    "name": "Grandpa",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-8"
+  },
+  {
+    "setID": "22636",
+    "number": "71001",
+    "name": "Paintball Player",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-9"
+  },
+  {
+    "setID": "22637",
+    "number": "71001",
+    "name": "Sea Captain",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-10"
+  },
+  {
+    "setID": "22638",
+    "number": "71001",
+    "name": "Sad Clown",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-11"
+  },
+  {
+    "setID": "22639",
+    "number": "71001",
+    "name": "Revolutionary Soldier",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-12"
+  },
+  {
+    "setID": "22640",
+    "number": "71001",
+    "name": "Baseball Fielder",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-13"
+  },
+  {
+    "setID": "22641",
+    "number": "71001",
+    "name": "Trendsetter",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-14"
+  },
+  {
+    "setID": "22642",
+    "number": "71001",
+    "name": "Decorator",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-15"
+  },
+  {
+    "setID": "22643",
+    "number": "71001",
+    "name": "Motorcycle Mechanic",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 10",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71001-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71001-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71001-16"
+  },
+  {
+    "setID": "22897",
+    "number": "71002",
+    "name": "Barbarian",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-1"
+  },
+  {
+    "setID": "22892",
+    "number": "71002",
+    "name": "Scarecrow",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-2"
+  },
+  {
+    "setID": "22891",
+    "number": "71002",
+    "name": "Pretzel Girl",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-3"
+  },
+  {
+    "setID": "22885",
+    "number": "71002",
+    "name": "Evil Mech",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-4"
+  },
+  {
+    "setID": "22895",
+    "number": "71002",
+    "name": "Island Warrior",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-5"
+  },
+  {
+    "setID": "22896",
+    "number": "71002",
+    "name": "Gingerbread Man",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-6"
+  },
+  {
+    "setID": "22890",
+    "number": "71002",
+    "name": "Holiday Elf",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-7"
+  },
+  {
+    "setID": "22884",
+    "number": "71002",
+    "name": "Yeti",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-8"
+  },
+  {
+    "setID": "22893",
+    "number": "71002",
+    "name": "Mountain Climber",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-9"
+  },
+  {
+    "setID": "22886",
+    "number": "71002",
+    "name": "Welder",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-10"
+  },
+  {
+    "setID": "22899",
+    "number": "71002",
+    "name": "Scientist",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-11"
+  },
+  {
+    "setID": "22888",
+    "number": "71002",
+    "name": "Saxophone Player",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-12"
+  },
+  {
+    "setID": "22898",
+    "number": "71002",
+    "name": "Diner Waitress",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-13"
+  },
+  {
+    "setID": "22894",
+    "number": "71002",
+    "name": "Grandma",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-14"
+  },
+  {
+    "setID": "22889",
+    "number": "71002",
+    "name": "Constable",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-15"
+  },
+  {
+    "setID": "22887",
+    "number": "71002",
+    "name": "Lady Robot",
+    "year": "2013",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 11",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71002-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71002-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71002-16"
+  },
+  {
+    "setID": "23154",
+    "number": "71004",
+    "name": "Calamity Drone",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-1"
+  },
+  {
+    "setID": "23155",
+    "number": "71004",
+    "name": "President Business",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-2"
+  },
+  {
+    "setID": "23156",
+    "number": "71004",
+    "name": "Hard Hat Emmet",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-3"
+  },
+  {
+    "setID": "23157",
+    "number": "71004",
+    "name": "Wild West Wyldstyle",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-4"
+  },
+  {
+    "setID": "23158",
+    "number": "71004",
+    "name": "Abraham Lincoln",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-5"
+  },
+  {
+    "setID": "23159",
+    "number": "71004",
+    "name": "Mrs. Scratchen-Post",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-6"
+  },
+  {
+    "setID": "23160",
+    "number": "71004",
+    "name": "Scribble-Face Bad Cop",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-7"
+  },
+  {
+    "setID": "23161",
+    "number": "71004",
+    "name": "William Shakespeare",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-8"
+  },
+  {
+    "setID": "23162",
+    "number": "71004",
+    "name": "Gail the Construction Worker",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-9"
+  },
+  {
+    "setID": "23163",
+    "number": "71004",
+    "name": "Larry the Barista",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-10"
+  },
+  {
+    "setID": "23164",
+    "number": "71004",
+    "name": "Velma Staplebot",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-11"
+  },
+  {
+    "setID": "23165",
+    "number": "71004",
+    "name": "Taco Tuesday Guy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-12"
+  },
+  {
+    "setID": "23166",
+    "number": "71004",
+    "name": "Where are my Pants? Guy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-13"
+  },
+  {
+    "setID": "23167",
+    "number": "71004",
+    "name": "Wiley Fusebot",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-14"
+  },
+  {
+    "setID": "23168",
+    "number": "71004",
+    "name": "Panda Guy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-15"
+  },
+  {
+    "setID": "23169",
+    "number": "71004",
+    "name": "Marsha Queen of the Mermaids",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71004-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71004-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71004-16"
+  },
+  {
+    "setID": "23569",
+    "number": "71005",
+    "name": "Homer Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-1"
+  },
+  {
+    "setID": "23568",
+    "number": "71005",
+    "name": "Bart Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-2"
+  },
+  {
+    "setID": "23570",
+    "number": "71005",
+    "name": "Marge Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-3"
+  },
+  {
+    "setID": "23571",
+    "number": "71005",
+    "name": "Lisa Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-4"
+  },
+  {
+    "setID": "23572",
+    "number": "71005",
+    "name": "Maggie Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-5"
+  },
+  {
+    "setID": "23573",
+    "number": "71005",
+    "name": "Grampa Simpson",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-6"
+  },
+  {
+    "setID": "23574",
+    "number": "71005",
+    "name": "Ned Flanders",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-7"
+  },
+  {
+    "setID": "23575",
+    "number": "71005",
+    "name": "Krusty the Clown",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-8"
+  },
+  {
+    "setID": "23576",
+    "number": "71005",
+    "name": "Milhouse Van Houten",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-9"
+  },
+  {
+    "setID": "23577",
+    "number": "71005",
+    "name": "Ralph Wiggum",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-10"
+  },
+  {
+    "setID": "23578",
+    "number": "71005",
+    "name": "Apu Nahasapeemapetilon",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-11"
+  },
+  {
+    "setID": "23579",
+    "number": "71005",
+    "name": "Nelson Muntz",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-12"
+  },
+  {
+    "setID": "23580",
+    "number": "71005",
+    "name": "Itchy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-13"
+  },
+  {
+    "setID": "23581",
+    "number": "71005",
+    "name": "Scratchy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-14"
+  },
+  {
+    "setID": "23582",
+    "number": "71005",
+    "name": "Chief Wiggum",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-15"
+  },
+  {
+    "setID": "23583",
+    "number": "71005",
+    "name": "Mr. Burns",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71005-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71005-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71005-16"
+  },
+  {
+    "setID": "23898",
+    "number": "71007",
+    "name": "Wizard",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-1"
+  },
+  {
+    "setID": "23902",
+    "number": "71007",
+    "name": "Hun Warrior",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-2"
+  },
+  {
+    "setID": "23906",
+    "number": "71007",
+    "name": "Fairytale Princess",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-3"
+  },
+  {
+    "setID": "23891",
+    "number": "71007",
+    "name": "Video Game Guy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-4"
+  },
+  {
+    "setID": "23904",
+    "number": "71007",
+    "name": "Battle Goddess",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-5"
+  },
+  {
+    "setID": "23894",
+    "number": "71007",
+    "name": "Space Miner",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-6"
+  },
+  {
+    "setID": "23900",
+    "number": "71007",
+    "name": "Lifeguard",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-7"
+  },
+  {
+    "setID": "23897",
+    "number": "71007",
+    "name": "Prospector",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-8"
+  },
+  {
+    "setID": "23901",
+    "number": "71007",
+    "name": "Jester",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-9"
+  },
+  {
+    "setID": "23905",
+    "number": "71007",
+    "name": "Dino Tracker",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-10"
+  },
+  {
+    "setID": "23892",
+    "number": "71007",
+    "name": "Pizza Delivery Man",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-11"
+  },
+  {
+    "setID": "23896",
+    "number": "71007",
+    "name": "Rock Star",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-12"
+  },
+  {
+    "setID": "23895",
+    "number": "71007",
+    "name": "Swashbuckler",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-13"
+  },
+  {
+    "setID": "23899",
+    "number": "71007",
+    "name": "Piggy Guy",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-14"
+  },
+  {
+    "setID": "23903",
+    "number": "71007",
+    "name": "Genie Girl",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-15"
+  },
+  {
+    "setID": "23893",
+    "number": "71007",
+    "name": "Spooky Girl",
+    "year": "2014",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 12",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71007-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71007-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71007-16"
+  },
+  {
+    "setID": "24111",
+    "number": "71008",
+    "name": "Classic King",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-1"
+  },
+  {
+    "setID": "24112",
+    "number": "71008",
+    "name": "Sheriff",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-2"
+  },
+  {
+    "setID": "24113",
+    "number": "71008",
+    "name": "Unicorn Girl",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-3"
+  },
+  {
+    "setID": "24114",
+    "number": "71008",
+    "name": "Snake Charmer",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-4"
+  },
+  {
+    "setID": "24115",
+    "number": "71008",
+    "name": "Goblin",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-5"
+  },
+  {
+    "setID": "24116",
+    "number": "71008",
+    "name": "Paleontologist",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-6"
+  },
+  {
+    "setID": "24117",
+    "number": "71008",
+    "name": "Alien Trooper",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-7"
+  },
+  {
+    "setID": "24118",
+    "number": "71008",
+    "name": "Egyptian Warrior",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-8"
+  },
+  {
+    "setID": "24119",
+    "number": "71008",
+    "name": "Carpenter",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-9"
+  },
+  {
+    "setID": "24120",
+    "number": "71008",
+    "name": "Evil Wizard",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-10"
+  },
+  {
+    "setID": "24121",
+    "number": "71008",
+    "name": "Fencer",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-11"
+  },
+  {
+    "setID": "24122",
+    "number": "71008",
+    "name": "Samurai",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-12"
+  },
+  {
+    "setID": "24123",
+    "number": "71008",
+    "name": "Disco Diva",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-13"
+  },
+  {
+    "setID": "24124",
+    "number": "71008",
+    "name": "Hot Dog Man",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-14"
+  },
+  {
+    "setID": "24125",
+    "number": "71008",
+    "name": "Lady Cyclops",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-15"
+  },
+  {
+    "setID": "24126",
+    "number": "71008",
+    "name": "Galaxy Trooper",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 13",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71008-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71008-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71008-16"
+  },
+  {
+    "setID": "24419",
+    "number": "71009",
+    "name": "Homer",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-1"
+  },
+  {
+    "setID": "24411",
+    "number": "71009",
+    "name": "Marge",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-2"
+  },
+  {
+    "setID": "24422",
+    "number": "71009",
+    "name": "Lisa",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-3"
+  },
+  {
+    "setID": "24421",
+    "number": "71009",
+    "name": "Maggie",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-4"
+  },
+  {
+    "setID": "24414",
+    "number": "71009",
+    "name": "Bart",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-5"
+  },
+  {
+    "setID": "24417",
+    "number": "71009",
+    "name": "Milhouse",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-6"
+  },
+  {
+    "setID": "24416",
+    "number": "71009",
+    "name": "Comic Book Guy",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-7"
+  },
+  {
+    "setID": "24424",
+    "number": "71009",
+    "name": "Martin",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-8"
+  },
+  {
+    "setID": "24423",
+    "number": "71009",
+    "name": "Professor Frink",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-9"
+  },
+  {
+    "setID": "24413",
+    "number": "71009",
+    "name": "Hans Moleman",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-10"
+  },
+  {
+    "setID": "24425",
+    "number": "71009",
+    "name": "Selma",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-11"
+  },
+  {
+    "setID": "24426",
+    "number": "71009",
+    "name": "Patty",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-12"
+  },
+  {
+    "setID": "24415",
+    "number": "71009",
+    "name": "Groundskeeper Willie",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-13"
+  },
+  {
+    "setID": "24418",
+    "number": "71009",
+    "name": "Edna Krabappel",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-14"
+  },
+  {
+    "setID": "24420",
+    "number": "71009",
+    "name": "Smithers",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-15"
+  },
+  {
+    "setID": "24412",
+    "number": "71009",
+    "name": "Dr Hibbert",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The Simpsons series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71009-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71009-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71009-16"
+  },
+  {
+    "setID": "24635",
+    "number": "71010",
+    "name": "Wolf Guy",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-1"
+  },
+  {
+    "setID": "24636",
+    "number": "71010",
+    "name": "Zombie Pirate",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-2"
+  },
+  {
+    "setID": "24637",
+    "number": "71010",
+    "name": "Monster Scientist",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-3"
+  },
+  {
+    "setID": "24638",
+    "number": "71010",
+    "name": "Wacky Witch",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-4"
+  },
+  {
+    "setID": "24639",
+    "number": "71010",
+    "name": "Plant Monster",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-5"
+  },
+  {
+    "setID": "24640",
+    "number": "71010",
+    "name": "Fly Monster",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-6"
+  },
+  {
+    "setID": "24641",
+    "number": "71010",
+    "name": "Spectre",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-7"
+  },
+  {
+    "setID": "24642",
+    "number": "71010",
+    "name": "Zombie Cheerleader",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-8"
+  },
+  {
+    "setID": "24643",
+    "number": "71010",
+    "name": "Tiger Woman",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-9"
+  },
+  {
+    "setID": "24644",
+    "number": "71010",
+    "name": "Gargoyle",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-10"
+  },
+  {
+    "setID": "24645",
+    "number": "71010",
+    "name": "Skeleton Guy",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-11"
+  },
+  {
+    "setID": "24650",
+    "number": "71010",
+    "name": "Monster Rocker",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-12"
+  },
+  {
+    "setID": "24646",
+    "number": "71010",
+    "name": "Zombie Businessman",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-13"
+  },
+  {
+    "setID": "24647",
+    "number": "71010",
+    "name": "Banshee",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-14"
+  },
+  {
+    "setID": "24648",
+    "number": "71010",
+    "name": "Square Foot",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-15"
+  },
+  {
+    "setID": "24649",
+    "number": "71010",
+    "name": "Spider Lady",
+    "year": "2015",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 14",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71010-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71010-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71010-16"
+  },
+  {
+    "setID": "25592",
+    "number": "71011",
+    "name": "Farmer",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-1"
+  },
+  {
+    "setID": "25577",
+    "number": "71011",
+    "name": "Astronaut",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-2"
+  },
+  {
+    "setID": "25578",
+    "number": "71011",
+    "name": "Frightening Knight",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-3"
+  },
+  {
+    "setID": "25579",
+    "number": "71011",
+    "name": "Clumsy Guy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-4"
+  },
+  {
+    "setID": "25580",
+    "number": "71011",
+    "name": "Tribal Woman",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-5"
+  },
+  {
+    "setID": "25581",
+    "number": "71011",
+    "name": "Flying Warrior",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-6"
+  },
+  {
+    "setID": "25582",
+    "number": "71011",
+    "name": "Faun",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-7"
+  },
+  {
+    "setID": "25583",
+    "number": "71011",
+    "name": "Animal Control Officer",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-8"
+  },
+  {
+    "setID": "25584",
+    "number": "71011",
+    "name": "Janitor",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-9"
+  },
+  {
+    "setID": "25585",
+    "number": "71011",
+    "name": "Ballerina",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-10"
+  },
+  {
+    "setID": "25586",
+    "number": "71011",
+    "name": "Laser Mech",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-11"
+  },
+  {
+    "setID": "25587",
+    "number": "71011",
+    "name": "Kendo Fighter",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-12"
+  },
+  {
+    "setID": "25588",
+    "number": "71011",
+    "name": "Shark Suit Guy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-13"
+  },
+  {
+    "setID": "25589",
+    "number": "71011",
+    "name": "Wrestling Champion",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-14"
+  },
+  {
+    "setID": "25590",
+    "number": "71011",
+    "name": "Jewel Thief",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-15"
+  },
+  {
+    "setID": "25591",
+    "number": "71011",
+    "name": "Queen",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 15",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71011-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71011-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71011-16"
+  },
+  {
+    "setID": "25985",
+    "number": "71012",
+    "name": "Stitch",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-1"
+  },
+  {
+    "setID": "25972",
+    "number": "71012",
+    "name": "Alien",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-2"
+  },
+  {
+    "setID": "25974",
+    "number": "71012",
+    "name": "Buzz Lightyear",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-3"
+  },
+  {
+    "setID": "25970",
+    "number": "71012",
+    "name": "Aladdin",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-4"
+  },
+  {
+    "setID": "25979",
+    "number": "71012",
+    "name": "Genie",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-5"
+  },
+  {
+    "setID": "25980",
+    "number": "71012",
+    "name": "Maleficent",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-6"
+  },
+  {
+    "setID": "25971",
+    "number": "71012",
+    "name": "Alice",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-7"
+  },
+  {
+    "setID": "25976",
+    "number": "71012",
+    "name": "Cheshire Cat",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-8"
+  },
+  {
+    "setID": "25977",
+    "number": "71012",
+    "name": "Daisy Duck",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-9"
+  },
+  {
+    "setID": "25978",
+    "number": "71012",
+    "name": "Donald Duck",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-10"
+  },
+  {
+    "setID": "25982",
+    "number": "71012",
+    "name": "Minnie Mouse",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-11"
+  },
+  {
+    "setID": "25981",
+    "number": "71012",
+    "name": "Mickey Mouse",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-12"
+  },
+  {
+    "setID": "25983",
+    "number": "71012",
+    "name": "Mr. Incredible",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-13"
+  },
+  {
+    "setID": "25986",
+    "number": "71012",
+    "name": "Syndrome",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-14"
+  },
+  {
+    "setID": "25984",
+    "number": "71012",
+    "name": "Peter Pan",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-15"
+  },
+  {
+    "setID": "25975",
+    "number": "71012",
+    "name": "Captain Hook",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-16"
+  },
+  {
+    "setID": "25987",
+    "number": "71012",
+    "name": "Ursula",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-17.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-17.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-17"
+  },
+  {
+    "setID": "25973",
+    "number": "71012",
+    "name": "Ariel",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71012-18.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71012-18.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71012-18"
+  },
+  {
+    "setID": "25991",
+    "number": "71013",
+    "name": "Ice Queen",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-1"
+  },
+  {
+    "setID": "25992",
+    "number": "71013",
+    "name": "Desert Warrior",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-2"
+  },
+  {
+    "setID": "25993",
+    "number": "71013",
+    "name": "Cyborg",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-3"
+  },
+  {
+    "setID": "25994",
+    "number": "71013",
+    "name": "Cute Little Devil",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-4"
+  },
+  {
+    "setID": "25995",
+    "number": "71013",
+    "name": "Spooky Boy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-5"
+  },
+  {
+    "setID": "25996",
+    "number": "71013",
+    "name": "Hiker",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-6"
+  },
+  {
+    "setID": "25997",
+    "number": "71013",
+    "name": "Wildlife Photographer",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-7"
+  },
+  {
+    "setID": "25998",
+    "number": "71013",
+    "name": "Kickboxer",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-8"
+  },
+  {
+    "setID": "25999",
+    "number": "71013",
+    "name": "Scallywag Pirate",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-9"
+  },
+  {
+    "setID": "26000",
+    "number": "71013",
+    "name": "Penguin Boy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-10"
+  },
+  {
+    "setID": "26001",
+    "number": "71013",
+    "name": "Rogue",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-11"
+  },
+  {
+    "setID": "26002",
+    "number": "71013",
+    "name": "Dog Show Winner",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-12"
+  },
+  {
+    "setID": "26003",
+    "number": "71013",
+    "name": "Mariachi",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-13"
+  },
+  {
+    "setID": "26004",
+    "number": "71013",
+    "name": "Spy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-14"
+  },
+  {
+    "setID": "26005",
+    "number": "71013",
+    "name": "Banana Guy",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-15"
+  },
+  {
+    "setID": "26006",
+    "number": "71013",
+    "name": "Babysitter",
+    "year": "2016",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 16",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71013-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71013-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71013-16"
+  },
+  {
+    "setID": "26861",
+    "number": "71017",
+    "name": "Lobster-Lovin' Batman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-1"
+  },
+  {
+    "setID": "26857",
+    "number": "71017",
+    "name": "Glam Metal Batman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-2"
+  },
+  {
+    "setID": "26854",
+    "number": "71017",
+    "name": "Fairy Batman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-3"
+  },
+  {
+    "setID": "26853",
+    "number": "71017",
+    "name": "Clan of the Cave Batman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-4"
+  },
+  {
+    "setID": "26862",
+    "number": "71017",
+    "name": "Vacation Batman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-5"
+  },
+  {
+    "setID": "26863",
+    "number": "71017",
+    "name": "Barbara Gordon",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-6"
+  },
+  {
+    "setID": "26855",
+    "number": "71017",
+    "name": "Commissioner Gordon",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-7"
+  },
+  {
+    "setID": "26850",
+    "number": "71017",
+    "name": "Arkham Asylum Joker",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-8"
+  },
+  {
+    "setID": "26866",
+    "number": "71017",
+    "name": "Dick Grayson",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-17.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-17.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-9"
+  },
+  {
+    "setID": "26859",
+    "number": "71017",
+    "name": "Pink Power Batgirl",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-10"
+  },
+  {
+    "setID": "26867",
+    "number": "71017",
+    "name": "Red Hood",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-18.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-18.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-11"
+  },
+  {
+    "setID": "26865",
+    "number": "71017",
+    "name": "Eraser",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-12"
+  },
+  {
+    "setID": "26852",
+    "number": "71017",
+    "name": "Nurse Harley Quinn",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-13"
+  },
+  {
+    "setID": "26858",
+    "number": "71017",
+    "name": "Orca",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-14"
+  },
+  {
+    "setID": "26869",
+    "number": "71017",
+    "name": "Zodiac Master",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-20.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-20.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-15"
+  },
+  {
+    "setID": "26851",
+    "number": "71017",
+    "name": "Catman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-16"
+  },
+  {
+    "setID": "26868",
+    "number": "71017",
+    "name": "March Harriet",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-19.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-19.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-17"
+  },
+  {
+    "setID": "26864",
+    "number": "71017",
+    "name": "Calculator",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-18"
+  },
+  {
+    "setID": "26856",
+    "number": "71017",
+    "name": "King Tut",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-19"
+  },
+  {
+    "setID": "26860",
+    "number": "71017",
+    "name": "Mime",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Batman Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71017-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71017-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71017-20"
+  },
+  {
+    "setID": "27139",
+    "number": "71018",
+    "name": "Professional Surfer",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-1"
+  },
+  {
+    "setID": "27140",
+    "number": "71018",
+    "name": "Circus Strong Man",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-2"
+  },
+  {
+    "setID": "27141",
+    "number": "71018",
+    "name": "Gourmet Chef",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-3"
+  },
+  {
+    "setID": "27142",
+    "number": "71018",
+    "name": "Corn Cob Guy",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-4"
+  },
+  {
+    "setID": "27143",
+    "number": "71018",
+    "name": "Veterinarian",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-5"
+  },
+  {
+    "setID": "27144",
+    "number": "71018",
+    "name": "Hot Dog Man",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-6"
+  },
+  {
+    "setID": "27145",
+    "number": "71018",
+    "name": "Butterfly Girl",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-7"
+  },
+  {
+    "setID": "27146",
+    "number": "71018",
+    "name": "Roman Gladiator",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-8"
+  },
+  {
+    "setID": "27147",
+    "number": "71018",
+    "name": "Connoisseur",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-9"
+  },
+  {
+    "setID": "27148",
+    "number": "71018",
+    "name": "Battle Dwarf",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-10"
+  },
+  {
+    "setID": "27149",
+    "number": "71018",
+    "name": "Retro Spaceman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-11"
+  },
+  {
+    "setID": "27150",
+    "number": "71018",
+    "name": "Yuppie",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-12"
+  },
+  {
+    "setID": "27151",
+    "number": "71018",
+    "name": "Rocket Boy",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-13"
+  },
+  {
+    "setID": "27152",
+    "number": "71018",
+    "name": "Dance Instructor",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-14"
+  },
+  {
+    "setID": "27153",
+    "number": "71018",
+    "name": "Elf Girl",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-15"
+  },
+  {
+    "setID": "27154",
+    "number": "71018",
+    "name": "Highwayman",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 17",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71018-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71018-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71018-16"
+  },
+  {
+    "setID": "27267",
+    "number": "71019",
+    "name": "GPL Tech",
+    "year": "2017",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Ninjago Movie",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71019-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71019-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71019-18"
+  },
+  {
+    "setID": "27959",
+    "number": "71021",
+    "name": "Elephant Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-1"
+  },
+  {
+    "setID": "27960",
+    "number": "71021",
+    "name": "Brick Suit Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-2"
+  },
+  {
+    "setID": "27961",
+    "number": "71021",
+    "name": "Brick Suit Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-3"
+  },
+  {
+    "setID": "27962",
+    "number": "71021",
+    "name": "Party Clown",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-4"
+  },
+  {
+    "setID": "27963",
+    "number": "71021",
+    "name": "Firework Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-5"
+  },
+  {
+    "setID": "27964",
+    "number": "71021",
+    "name": "Birthday Party Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-6"
+  },
+  {
+    "setID": "27965",
+    "number": "71021",
+    "name": "Dragon Suit Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-7"
+  },
+  {
+    "setID": "27966",
+    "number": "71021",
+    "name": "Classic Police Officer",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-8"
+  },
+  {
+    "setID": "27967",
+    "number": "71021",
+    "name": "Spider Suit Boy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-9"
+  },
+  {
+    "setID": "27968",
+    "number": "71021",
+    "name": "Birthday Cake Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-10"
+  },
+  {
+    "setID": "27969",
+    "number": "71021",
+    "name": "Cactus Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-11"
+  },
+  {
+    "setID": "27970",
+    "number": "71021",
+    "name": "Cat Costume Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-12"
+  },
+  {
+    "setID": "27971",
+    "number": "71021",
+    "name": "Race Car Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-13"
+  },
+  {
+    "setID": "27972",
+    "number": "71021",
+    "name": "Flower Pot Girl",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-14"
+  },
+  {
+    "setID": "27973",
+    "number": "71021",
+    "name": "Cowboy Costume Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-15"
+  },
+  {
+    "setID": "27974",
+    "number": "71021",
+    "name": "Birthday Party Boy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-16"
+  },
+  {
+    "setID": "27975",
+    "number": "71021",
+    "name": "Unicorn Guy",
+    "year": "2018",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 18",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71021-17.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71021-17.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71021-17"
+  },
+  {
+    "setID": "28900",
+    "number": "71023",
+    "name": "Awesome Remix Emmet",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-1"
+  },
+  {
+    "setID": "28902",
+    "number": "71023",
+    "name": "Battle-Ready Lucy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-2"
+  },
+  {
+    "setID": "28910",
+    "number": "71023",
+    "name": "Apocalypse Benny",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-3"
+  },
+  {
+    "setID": "28907",
+    "number": "71023",
+    "name": "Giraffe Guy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-4"
+  },
+  {
+    "setID": "28904",
+    "number": "71023",
+    "name": "Crayon Girl",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-5"
+  },
+  {
+    "setID": "28909",
+    "number": "71023",
+    "name": "Sherry Scratchen-Post & Scarfield",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-6"
+  },
+  {
+    "setID": "28922",
+    "number": "71023",
+    "name": "Hula Lula",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-20.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-20.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-7"
+  },
+  {
+    "setID": "28908",
+    "number": "71023",
+    "name": "Watermelon Dude",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-8"
+  },
+  {
+    "setID": "28917",
+    "number": "71023",
+    "name": "Flashback Lucy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-9"
+  },
+  {
+    "setID": "28903",
+    "number": "71023",
+    "name": "Swamp Creature",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-10"
+  },
+  {
+    "setID": "28918",
+    "number": "71023",
+    "name": "Candy Rapper",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-11"
+  },
+  {
+    "setID": "28916",
+    "number": "71023",
+    "name": "Gone Golfin' President Business",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-12"
+  },
+  {
+    "setID": "28920",
+    "number": "71023",
+    "name": "Apocalypseburg Abe",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-18.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-18.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-13"
+  },
+  {
+    "setID": "28911",
+    "number": "71023",
+    "name": "Vest Friend Rex",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-14"
+  },
+  {
+    "setID": "28919",
+    "number": "71023",
+    "name": "Kitty Pop",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-17.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-17.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-15"
+  },
+  {
+    "setID": "28912",
+    "number": "71023",
+    "name": "Dorothy Gale & Toto",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-16"
+  },
+  {
+    "setID": "28913",
+    "number": "71023",
+    "name": "Cowardly Lion",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-17"
+  },
+  {
+    "setID": "28915",
+    "number": "71023",
+    "name": "Scarecrow",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-18"
+  },
+  {
+    "setID": "28914",
+    "number": "71023",
+    "name": "Tin Man",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-19"
+  },
+  {
+    "setID": "28921",
+    "number": "71023",
+    "name": "Unikitty",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "The LEGO Movie 2: The Second Part",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71023-19.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71023-19.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71023-20"
+  },
+  {
+    "setID": "29170",
+    "number": "71024",
+    "name": "Vintage Mickey",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-1"
+  },
+  {
+    "setID": "29171",
+    "number": "71024",
+    "name": "Vintage Minnie",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-2"
+  },
+  {
+    "setID": "29173",
+    "number": "71024",
+    "name": "Huey",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-3"
+  },
+  {
+    "setID": "29174",
+    "number": "71024",
+    "name": "Dewey",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-4"
+  },
+  {
+    "setID": "29175",
+    "number": "71024",
+    "name": "Louie",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-5"
+  },
+  {
+    "setID": "29172",
+    "number": "71024",
+    "name": "Scrooge McDuck",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-6"
+  },
+  {
+    "setID": "29176",
+    "number": "71024",
+    "name": "Chip",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-7"
+  },
+  {
+    "setID": "29177",
+    "number": "71024",
+    "name": "Dale",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-8"
+  },
+  {
+    "setID": "29181",
+    "number": "71024",
+    "name": "Elsa",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-9"
+  },
+  {
+    "setID": "29180",
+    "number": "71024",
+    "name": "Anna",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-10"
+  },
+  {
+    "setID": "29179",
+    "number": "71024",
+    "name": "Jafar",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-11"
+  },
+  {
+    "setID": "29178",
+    "number": "71024",
+    "name": "Jasmine",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-12"
+  },
+  {
+    "setID": "29187",
+    "number": "71024",
+    "name": "Hades",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-18.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-18.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-13"
+  },
+  {
+    "setID": "29186",
+    "number": "71024",
+    "name": "Hercules",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-17.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-17.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-14"
+  },
+  {
+    "setID": "29183",
+    "number": "71024",
+    "name": "Sally",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-15"
+  },
+  {
+    "setID": "29182",
+    "number": "71024",
+    "name": "Jack Skellington",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-16"
+  },
+  {
+    "setID": "29184",
+    "number": "71024",
+    "name": "Edna Mode",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-17"
+  },
+  {
+    "setID": "29185",
+    "number": "71024",
+    "name": "Frozone",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Disney Series 2",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71024-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71024-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71024-18"
+  },
+  {
+    "setID": "29506",
+    "number": "71025",
+    "name": "Video Game Champ",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-1"
+  },
+  {
+    "setID": "29508",
+    "number": "71025",
+    "name": "Shower Guy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-2.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-2.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-2"
+  },
+  {
+    "setID": "29510",
+    "number": "71025",
+    "name": "Fright Knight",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-3.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-3.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-3"
+  },
+  {
+    "setID": "29507",
+    "number": "71025",
+    "name": "Monkey King",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-4.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-4.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-4"
+  },
+  {
+    "setID": "29509",
+    "number": "71025",
+    "name": "Programmer",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-5.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-5.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-5"
+  },
+  {
+    "setID": "29512",
+    "number": "71025",
+    "name": "Mummy Queen",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-6.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-6.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-6"
+  },
+  {
+    "setID": "29514",
+    "number": "71025",
+    "name": "Jungle Explorer",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-7.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-7.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-7"
+  },
+  {
+    "setID": "29513",
+    "number": "71025",
+    "name": "Fire Fighter",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-8.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-8.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-8"
+  },
+  {
+    "setID": "29502",
+    "number": "71025",
+    "name": "Dog Sitter",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-9.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-9.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-9"
+  },
+  {
+    "setID": "29516",
+    "number": "71025",
+    "name": "Pizza Costume Guy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-10.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-10.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-10"
+  },
+  {
+    "setID": "29518",
+    "number": "71025",
+    "name": "Galactic Bounty Hunter",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-11.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-11.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-11"
+  },
+  {
+    "setID": "29515",
+    "number": "71025",
+    "name": "Gardener",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-12.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-12.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-12"
+  },
+  {
+    "setID": "29519",
+    "number": "71025",
+    "name": "Rugby Player",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-13.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-13.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-13"
+  },
+  {
+    "setID": "29504",
+    "number": "71025",
+    "name": "Fox Costume Girl",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-14.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-14.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-14"
+  },
+  {
+    "setID": "29517",
+    "number": "71025",
+    "name": "Bear Costume Guy",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-15.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-15.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-15"
+  },
+  {
+    "setID": "29511",
+    "number": "71025",
+    "name": "Mountain Biker",
+    "year": "2019",
+    "theme": "Collectable Minifigures",
+    "subtheme": "Series 19",
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/71025-16.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/71025-16.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/71025-16"
+  }
+]

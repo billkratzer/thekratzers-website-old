@@ -1,0 +1,43 @@
+
+.minifig {
+    flex: 0 0 auto;
+}
+
+#pic_container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    align-items: center;
+}
+
+#caption_bar {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 0.6em;
+}
+
+#caption {
+    text-align: center;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 1.2em;
+    color: #324866;
+}
+
+#click_blurb {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 1.0em;
+    color: #333;
+}
+
+#random_pic {
+    width: 100%;
+}
+
+.grayscale {
+    -webkit-filter: grayscale(1); /* Webkit */
+    filter: gray; /* IE6-9 */
+    filter: grayscale(1); /* W3C */
+}

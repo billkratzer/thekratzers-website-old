@@ -9,3 +9,40 @@
 .minifig {
     flex: 0 0 auto;
 }
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 2em;
+}
+.small_heading {
+    font-size: 24pt;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+href:visited {
+    color: red;
+}
+div a:link  {
+    color: black;
+}
+div a:visited {
+    color: black;
+}
+div a:hover {
+    color: #229;
+}
+.project_title {
+    font-weight: bold;
+    font-size: 18pt;
+    margin-bottom: 0.2em;
+}
+.project_description {
+    font-size: 12pt;
+    padding-bottom: 1em;
+}
+.project_link {
+    font-size: 11pt;
+}

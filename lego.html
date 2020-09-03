@@ -13,22 +13,159 @@ css_file: lego.css
     </div>
 
     <div id="bottom_wrapper">
+        <p>
+            I love Lego.  While many of my hobbies are virtual in nature, Lego is my one big hobby that lets me work and play in the physical world.
+        </p>
+        <ul>
+            <li>
+            <li>
+                <div class="project_title">Lego House</div>
+                <div class="project_description">
+                    While I love working with physical bricks with my hands, I quite often do not have enough real bricks to build the types of projects that I would love to build.
+                    Enter the world of Lego 3D Modeling on the computer.  The excellent
+                    <a href="http://stud.io" target="_blank">Lego Studio</a> application lets you build real Lego models in the virtual world!
+                    My first project was to build a model of our town house!
+                </div>
+                <div class="project_link">Pic: <a href="javascript:show_lego_home_gallery();">View Gallery</a></div>
+            </li>
+            <li>
+                <div class="project_title">Lego PacMan</div>
+                <div class="project_description">
+                    Recreations of the iconic 8-bit graphics in Lego!
+                </div>
+                <div class="project_link">Pics: <a href="javascript:show_pac_man_gallery();">View Gallery</a></div>
+            </li>
+
+        </ul>
+
     </div>
 </div>
 
 <script>
     function getRandomLegoSets() {
-        $.get( "/api/my/minifigs/random/10", function( data ) {
-            data.forEach(populateSet);
+        var size = minifigImageUrls.length;
+        for (var i = 0; i < 20; i++) {
+            var randomIndex = Math.floor(Math.random() * size);
+            populateSet(minifigImageUrls[randomIndex]);
+        }
+    }
+
+    function populateSet(imageUrl) {
+        $( '#minifigs' ).append( '<div class="minifig"><img class="minifig_thumb" src="' + imageUrl + '"/></div>' )
+    }
+
+    var minifigImageUrls = [];
+    $(document).ready(function(){
+        {% for minifig in site.data.minifigures %}
+        minifigImageUrls.push('{{ minifig.image.thumbnailURL }}');
+        {% endfor %}
+
+        getRandomLegoSets();
+    });
+
+    function show_pac_man_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/pacman/blinky.png',
+                opts : {
+                    caption : 'Blinky',
+                    thumb   : '/assets/image/lego/pacman/blinky_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/pinky.png',
+                opts : {
+                    caption : 'Pinky',
+                    thumb   : '/assets/image/lego/pacman/pinky_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/inky.png',
+                opts : {
+                    caption : 'Inky',
+                    thumb   : '/assets/image/lego/pacman/inky_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/clyde.png',
+                opts : {
+                    caption : 'Clyde',
+                    thumb   : '/assets/image/lego/pacman/clyde_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/scared.png',
+                opts : {
+                    caption : 'Scared Ghost',
+                    thumb   : '/assets/image/lego/pacman/scared_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/pac_man.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/pac_man_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/cherry.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/cherry_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/cherry.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/cherry_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/strawberry.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/strawberry_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/orange.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/orange_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/apple.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/apple_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/pacman/galaxian.png',
+                opts : {
+                    caption : 'Pac-Man',
+                    thumb   : '/assets/image/lego/pacman/galaxian_thumb.png'
+                }
+            }
+        ], {
+            loop : false
         });
     }
 
-    function populateSet(set) {
-        $( '#minifigs' ).append( '<div class="minifig"><img class="minifig_thumb" src="' + set.thumbnailURL + '"/></div>' )
+    function show_lego_home_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/home/home.png',
+                opts : {
+                    caption : 'Lego Town House',
+                    thumb   : '/assets/image/lego/home/home_thumb.home'
+                }
+            }
+        ], {
+            loop : false
+        });
     }
-
-    $(document).ready(function(){
-        getRandomLegoSets();
-    });
 
 </script>
