@@ -3,6 +3,11 @@
     flex: 0 0 auto;
 }
 
+#bottom_wrapper h1 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
 #pic_container {
     display: flex;
     flex-wrap: nowrap;
@@ -16,7 +21,7 @@
     overflow-x: auto;
     align-items: center;
     justify-content: space-between;
-    padding-bottom: 0.6em;
+    padding-bottom: 0.7em;
 }
 
 #caption {
