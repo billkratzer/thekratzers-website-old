@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big Ten Football Turn-Around"
-date:   2020-09-20 08:30:00 -0500
+date:   2020-09-20 08:30:00 -0400
 author:  Bill Kratzer
 categories: football
 css_file: post.css
