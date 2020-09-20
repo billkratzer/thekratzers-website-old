@@ -36,6 +36,45 @@ a.post-link {
     color: #9FB1BC;
 }
 
+#bottom h1 {
+    margin-top: 2rem;
+}
+
+#bottom h2 {
+    margin-top: 1rem;
+}
+
+#bottom h3 {
+    margin-top: 1rem;
+}
+
+#bottom table {
+    border-collapse: separate;
+    border-spacing: 0;
+    min-width: 20%;
+}
+
+#bottom table thead {
+    background-color: #2F3D55;
+    color: #eee;
+    font-size: 1.2rem;
+}
+
+#bottom table thead tr th {
+    padding: 0.2rem 1rem;
+}
+
+#bottom table tr td {
+    border: solid #2F3D55 1px;
+    margin: 0;
+    padding: 0.3em;
+}
+
+#bottom li {
+    list-style: disc;
+    margin-left: 2rem;
+}
+
 @media only screen and (max-width: 600px) {
     /* For small: */
     #top {
