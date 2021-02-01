@@ -35,6 +35,16 @@ body {
 #home_link a {
     color: #324866;
 }
+
+#hamburger {
+    text-align: right;
+    horiz-align: right;
+    margin: 0;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
 #menu {
     height: 3em;
     margin: 0;
@@ -104,6 +114,46 @@ body {
     #top h2 {
         font-size: 0.8em;
     }
+    #hamburger {
+        display: block;
+        color: #2F3D55;
+    }
+    #hamburger2 {
+        display: block;
+        color: #9FB1BC;
+    }
+    #menu {
+        height: 15em;
+        width: 8em;
+        position: absolute;
+        top: 0em;
+        right: 0em;
+        margin: 0;
+        padding: 1em;
+        background-color: #2F3D55;
+        color: #9FB1BC;
+        border: #eee .3em solid;
+        text-align: right;
+        display: none;
+    }
+
+    #menu ul {
+        padding-right: 0.3em;
+    }
+
+    #menu ul li {
+        margin: 0;
+        display: block;
+        padding-left: 0em;
+        padding-right: 0em;
+        text-align: right;
+        width: 100%;
+    }
+
+    #menu ul li a {
+        color: #9FB1BC;
+    }
+
 }
 @media only screen and (min-width: 600px) {
     /* For tablets: */
@@ -115,6 +165,9 @@ body {
     }
     #top h2 {
         font-size: 1.1em;
+    }
+    #hamburger, #hamburger2 {
+        display: none;
     }
 }
 
@@ -129,4 +182,8 @@ body {
     #top h2 {
         font-size: 1.5em;
     }
+    #hamburger, #hamburger2 {
+        display: none;
+    }
+
 }
