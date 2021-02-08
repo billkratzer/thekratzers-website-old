@@ -19,7 +19,7 @@ css_file: lego.css
         <ul>
             <li>
             <li>
-                <div class="project_title">Lego House</div>
+                <div class="project_title">Town House</div>
                 <div class="project_description">
                     While I love working with physical bricks with my hands, I quite often do not have enough real bricks to build the types of projects that I would love to build.
                     Enter the world of Lego 3D Modeling on the computer.  The excellent
@@ -29,11 +29,18 @@ css_file: lego.css
                 <div class="project_link">Pic: <a href="javascript:show_lego_home_gallery();">View Gallery</a></div>
             </li>
             <li>
-                <div class="project_title">Lego PacMan</div>
+                <div class="project_title">Pac-Man 8-Bit Art</div>
                 <div class="project_description">
-                    Recreations of the iconic 8-bit graphics in Lego!
+                    Recreations of the iconic 8-bit graphics of Pac-Man in Lego!
                 </div>
                 <div class="project_link">Pics: <a href="javascript:show_pac_man_gallery();">View Gallery</a></div>
+            </li>
+            <li>
+                <div class="project_title">Galaga 8-Bit Art</div>
+                <div class="project_description">
+                    Recreations of the 8-bit graphics of Galaga in Lego!
+                </div>
+                <div class="project_link">Pics: <a href="javascript:show_galaga_gallery();">View Gallery</a></div>
             </li>
 
         </ul>
@@ -147,6 +154,62 @@ css_file: lego.css
                 opts : {
                     caption : 'Pac-Man',
                     thumb   : '/assets/image/lego/pacman/galaxian_thumb.png'
+                }
+            }
+        ], {
+            loop : false
+        });
+    }
+
+    function show_galaga_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/galaga/player_ship.png',
+                opts : {
+                    caption : 'Player Spaceship',
+                    thumb   : '/assets/image/lego/galaga/player_ship_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien1.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien1_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien2.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien2_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien3.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien3_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien4.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien4_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien5.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien5_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/galaga/alien6.png',
+                opts : {
+                    caption : 'Alien Ship',
+                    thumb   : '/assets/image/lego/galaga/alien6_thumb.png'
                 }
             }
         ], {
