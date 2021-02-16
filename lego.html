@@ -42,6 +42,20 @@ css_file: lego.css
                 </div>
                 <div class="project_link">Pics: <a href="javascript:show_galaga_gallery();">View Gallery</a></div>
             </li>
+            <li>
+                <div class="project_title">Donkey Kong Jr. 8-Bit Art</div>
+                <div class="project_description">
+                    Recreations of the 8-bit graphics of Donkey Kong Jr. in Lego!
+                </div>
+                <div class="project_link">Pics: <a href="javascript:show_donkey_kong_jr_gallery();">View Gallery</a></div>
+            </li>
+            <li>
+                <div class="project_title">Robotron 8-Bit Art</div>
+                <div class="project_description">
+                    Recreations of the 8-bit graphics of Robotron (the best video game ever) in Lego!
+                </div>
+                <div class="project_link">Pics: <a href="javascript:show_robotron_gallery();">View Gallery</a></div>
+            </li>
 
         </ul>
 
@@ -217,6 +231,104 @@ css_file: lego.css
         });
     }
 
+    function show_donkey_kong_jr_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/donkey_kong.png',
+                opts : {
+                    caption : 'Donkey Kong',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/donkey_kong_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/donkey_kong_jr.png',
+                opts : {
+                    caption : 'Donkey Kong Jr.',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/donkey_kong_jr_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/mario.png',
+                opts : {
+                    caption : 'Mario',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/mario_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/red_trap.png',
+                opts : {
+                    caption : 'Red Trap guy',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/red_trap_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/blue_trap.png',
+                opts : {
+                    caption : 'Blue Trap Guy',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/blue_trap_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/donkey_kong_jr/purple_bird.png',
+                opts : {
+                    caption : 'Birdie',
+                    thumb   : '/assets/image/lego/donkey_kong_jr/purple_bird_thumb.png'
+                }
+            }
+        ], {
+            loop : false
+        });
+    }
+
+    function show_robotron_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/robotron/player.png',
+                opts : {
+                    caption : 'Player',
+                    thumb   : '/assets/image/lego/robotron/player_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/robotron/basic_enemy.png',
+                opts : {
+                    caption : 'Basic Enemy Robot',
+                    thumb   : '/assets/image/lego/robotron/basic_enemy_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/robotron/brain.png',
+                opts : {
+                    caption : 'Brain',
+                    thumb   : '/assets/image/lego/robotron/brain_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/robotron/tank.png',
+                opts : {
+                    caption : 'Tank',
+                    thumb   : '/assets/image/lego/robotron/tank_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/robotron/family1.png',
+                opts : {
+                    caption : 'Family 1',
+                    thumb   : '/assets/image/lego/robotron/family1_thumb.png'
+                }
+            },
+            {
+                src  : '/assets/image/lego/robotron/family2.png',
+                opts : {
+                    caption : 'Family 2',
+                    thumb   : '/assets/image/lego/robotron/family2_thumb.png'
+                }
+            }
+        ], {
+            loop : false
+        });
+    }
+    
     function show_lego_home_gallery() {
         $.fancybox.open([
             {
