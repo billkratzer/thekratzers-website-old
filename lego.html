@@ -56,6 +56,13 @@ css_file: lego.css
                 </div>
                 <div class="project_link">Pics: <a href="javascript:show_robotron_gallery();">View Gallery</a></div>
             </li>
+            <li>
+                <div class="project_title">Q*bert 8-Bit Art</div>
+                <div class="project_description">
+                    Recreations of the 8-bit graphics of Q*bert (the best video game ever) in Lego!
+                </div>
+                <div class="project_link">Pics: <a href="javascript:show_qbert_gallery();">View Gallery</a></div>
+            </li>
 
         </ul>
 
@@ -328,14 +335,28 @@ css_file: lego.css
             loop : false
         });
     }
-    
+
+    function show_qbert_gallery() {
+        $.fancybox.open([
+            {
+                src  : '/assets/image/lego/qbert/qbert.png',
+                opts : {
+                    caption : 'Q*bert',
+                    thumb   : '/assets/image/lego/qbert/qbert_thumb.png'
+                }
+            }
+        ], {
+            loop : false
+        });
+    }
+
     function show_lego_home_gallery() {
         $.fancybox.open([
             {
                 src  : '/assets/image/lego/home/home.png',
                 opts : {
                     caption : 'Lego Town House',
-                    thumb   : '/assets/image/lego/home/home_thumb.home'
+                    thumb   : '/assets/image/lego/home/home_thumb.png'
                 }
             }
         ], {
