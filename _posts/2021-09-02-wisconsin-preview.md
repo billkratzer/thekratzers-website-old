@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021 Wisconsin Preview"
+title:  "Wisconsin Preview"
 date:   2021-09-02 11:15:00 -0400
 author:  Bill Kratzer
 categories: football
@@ -8,6 +8,7 @@ css_file: post.css
 ---
 
 ## Good Guys 23, Wisky 31
+
 This game is a coin flip for me.
 
 I think Penn State is the better team by the end of this season.
