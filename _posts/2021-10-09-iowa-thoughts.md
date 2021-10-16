@@ -19,5 +19,5 @@ Winning out guarantees winning the East and playing in the Big Ten Championship,
 
 There's some huge challenges ahead, but if Sean Clifford can get healthy enough to play (and play well), this will be a team to reckon with.  
 
-##We ARE.
+## We ARE.
 

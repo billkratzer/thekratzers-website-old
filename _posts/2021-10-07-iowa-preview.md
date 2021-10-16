@@ -7,7 +7,7 @@ categories: football
 css_file: post.css
 ---
 
-##Nittany Lions: 13, Hawkeyes: 17
+## Nittany Lions: 13, Hawkeyes: 17
 
 Saturday afternoon should be a lot of fun to watch, if you like defensive football! Both teams boast top-five defenses as well as offenses that have been underwhelming.
 
@@ -19,7 +19,7 @@ I think Penn State turns the ball over 3 times - 1 on the ground and two in air.
 
 Let's hope I'm wrong!
 
-##WE ARE!!!!
+## WE ARE!!!!
 
 
 
