@@ -7,7 +7,7 @@ categories: football
 css_file: post.css
 ---
 
-Let's focus on the postives of yesterday's game:
+Let's focus on the positives of yesterday's game:
 
 I enjoyed the new college football overtime!   This is the first time that I got to see the new format, and it was definitely entertaining.  I know detractors will cry foul and scream:  "but this isn't football!"   Screw it.  You've had 60 minutes of regulation and two overtimes to try to settle it the regular way.  Now it's time to have some fun!
 
@@ -21,7 +21,7 @@ To summarize:
 
 1.  The offensive line got bullied by a 100+ ranked FBS defensive line.
 
-2.  The defensive line got bullied by an offensive line that was publically derided by head coach Brett Bielema earlier in the week.
+2.  The defensive line got bullied by an offensive line that was publicly derided by head coach Brett Bielema earlier in the week.
 
 3.  Four 4-star running backs seldom find any way to make positive yardage.
 
